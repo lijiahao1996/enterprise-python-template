@@ -6,19 +6,25 @@
 
 ---
 
-```bash
 ## 📦 安装依赖
+```bash
 pip install -r requirements.txt
-
+```
 ## ▶️ 运行主程序
+```bash
 python src/main.py
+```
 
 ## 🧪 运行测试
+```bash
 pytest
+```
 
 ## 🧰 代码检查
+```bash
 flake8 src tests
 black src tests
+```
 
 ## ⚙️ GitHub Actions
 该项目默认启用 CI/CD 工作流，每次推送代码时将自动执行：
