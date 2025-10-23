@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: enterprise-python-template
+Version: 0.1.0
+Summary: A production-ready Python enterprise project template with CI/CD.
+Author: Li Jiahao
+Requires-Python: >=3.10
+License-File: LICENSE
+Dynamic: license-file

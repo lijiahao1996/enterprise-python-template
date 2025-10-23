@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/main.py
+src/enterprise_python_template.egg-info/PKG-INFO
+src/enterprise_python_template.egg-info/SOURCES.txt
+src/enterprise_python_template.egg-info/dependency_links.txt
+src/enterprise_python_template.egg-info/top_level.txt
+tests/test_main.py
