@@ -1,0 +1,4 @@
+```text
+pytest==8.3.3
+flake8==7.1.0
+black==24.3.0
